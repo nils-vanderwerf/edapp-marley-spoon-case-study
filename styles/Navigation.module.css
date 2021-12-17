@@ -1,0 +1,15 @@
+.menu {
+  display: flex;
+  justify-content: center;
+}
+.menu a {
+  text-decoration: none;
+  margin-left: 1rem;
+  font-size: 0.83333rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.menu a:first-of-type {
+  margin-left: 0;
+}

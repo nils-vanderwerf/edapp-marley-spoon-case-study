@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "next/link";
-import styles from "../../styles/Header.module.css";
+import styles from "../../styles/Navigation.module.css";
 
-export default function Header() {
+export default function Navigation() {
   return (
     <header className={styles.menu}>
       <ul className="nav-bar">
